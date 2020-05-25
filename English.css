@@ -1,0 +1,128 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 0 auto;
+	padding: 0;
+	background-color: #B5B6B6;
+}
+header{
+	height: 300px;
+	width: auto;
+	background-image: url("IMG_3182.JPG");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+header img {
+	width: 80px;
+    margin-top: 10px;
+	margin-left: 5%;
+	padding: 0px;
+	vertical-align: bottom;
+	position: absolute;
+}
+
+*,*:before, *:after {
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.menu {
+	display: block;
+	overflow: hidden;
+	width: 60px;
+	height: 60px;
+	margin: 30px 20px 20px 0px;
+	cursor: pointer;
+	-webkit-transition: all 0.5s ease-in-out;
+	        transition: all 0.5s ease-in-out;
+	border: 3px solid transparent;
+	border-radius: 50%;
+	background-color: transparent;
+	float: right;
+}
+.menu div.menubar {
+	width: 30px;
+	margin: 17px auto;
+}
+.menu div.menubar .bar {
+	display: block;
+	width: 100%;
+	height: 5px;
+	margin-top: 3px;
+	border-radius: 2px;
+	background-color: #FFFFFF;
+}
+.menu ul {
+	display: none;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	-webkit-transition: all 0.5s ease;
+	        transition: all 0.5s ease;
+	text-align: center;
+	opacity: 0;
+}
+.menu ul li {
+	display: inline-block;
+}
+.menu ul li a {
+	display: inline-block;
+	padding: 0.7em 0.5em;
+	-webkit-transition: all 0.3s ease-in;
+	        transition: all 0.3s ease-in;
+	text-decoration: none;
+	color: #FFFFFF;
+	border-bottom: 4px solid transparent;
+	height: 56px;
+	line-height: 2em;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+}
+.menu ul li a:hover {
+	color: #FFFFFF;
+	background-color: #B5B6B6;
+}
+.menu ul li a:target {
+	border-bottom-color: #B5B6B6;
+}
+/* クリックした時の動き */
+#cp_navimenuid {
+	display: none;
+}
+#cp_navimenuid:checked ~ .menu {
+	width: 70%;
+	height: 60px;
+	border: 3px solid #FFFFFF;
+	border-radius: 5px;
+	background-color: transparent;
+}
+#cp_navimenuid:checked ~ .menu > ul {
+	display: block;
+	opacity: 1;
+}
+#cp_navimenuid:checked ~ .menu > .menubar {
+	display: none;
+}
+
+h1{
+	margin: 5% 5% 0 5%;
+	font-size: 25px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+	border-bottom: solid 2px #FDFAFA;
+	text-align: center;
+}
+
+	
+.contents p{
+	margin: 3% 5%;
+	font-size: 15px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+}
+
+
+footer{
+	margin-top: 150px;
+	text-align: center;
+	background-color: #FFFFFF;
+}
