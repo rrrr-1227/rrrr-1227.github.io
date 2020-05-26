@@ -1,0 +1,173 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>9.807</title>
+<link href="過去の作品.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+
+<!--headerはじまり-->
+ <header>
+	<div class="logo">
+	  <a href="/pepepeweb.index.html"><img src="pepepelogo白.png" alt="ぺぺぺの会"></a>
+	 </div>
+	<input type="checkbox" id="cp_navimenuid">
+      <label class="menu" for="cp_navimenuid">
+         <div class="menubar">
+	       <span class="bar"></span>
+	       <span class="bar"></span>
+	       <span class="bar"></span>
+         </div>
+       <ul>
+           <li><a id="home" href="/pepepeweb.index.html">Home</a></li>
+	       <li><a id="ぺペペの会って？" href="/ぺペペの会って？.index.html">ぺペペの会って？</a></li>
+	       <li><a id="これまでの「ぺ」" href="/これまでの「ぺ」.index.html">これまでの「ぺ」</a></li>
+		   <li><a id="「ぺ」のひとたち" href="/「ぺ」の人たち.index.html">「ぺ」のひとたち</a></li>
+		   <li><a id="ビデオの「ぺ」" href="/ビデオの「ぺ」.index.html">ビデオの「ぺ」</a></li>
+		   <li><a id="お問い合わせ" href="/お問い合わせ.index.html">お問い合わせ</a></li>
+		   <li><a id="english" href="/English.index.html">English</a></li>
+		</ul>
+     </label>
+</header>
+<!--headerおわり-->
+
+<!--wrapはじまり-->
+<div class="contents">
+	  <h1><span>2019年10月　みたかの「ぺ」公演</span><br>9.807</h1>
+	  <img src="570070d5a9c86097d6de38599e4c9876_103e9d47aadae004496c6a288888f7cf.jpg">
+	  <p>ものともののあいだにある　光源<br>
+         こととことのあいだにある　深層<br>
+         独話と会話のあいだにある　対話
+	  </p>
+</div>
+<div class="picture">
+	<li><img src="517ba55d9d27cac48b024e278bf72806_ba009cb417547a495a0e5b7f9f44afdb.jpg"></li>
+	<li><img src="d17cbcbda55c69da345958e9fd007c49_65e2a097dda8f688bea36b5124dd0bcf.jpg"></li>
+	<li><img src="7fa21a2a95c4308ac2d1bfcb86c96f7a_a8b1f4dec111e72bd11c53154b13a5ac.jpg"></li>
+</div>
+<div class="detail">
+	  <p>作・演出<br>宮澤大和<br><br>出演<br>石塚晴日<br>佐藤鈴奈<br>（以上、ぺぺぺの会）<br>金澤卓哉<br>小杉天俊<br>後藤佑里乃<br>大木菜摘<br>小澤南穂子<br>竹内蓮（劇団スポーツ）<br>
+	</p>
+</div>
+
+	<h2>上演映像</h2>
+<div class="movie">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/_IDhGcwQdFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/1b6KSlDg5FQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="detail2">
+	<h2>戯曲（一部）</h2>
+	  <div class="book">
+	   <iframe src="https://drive.google.com/file/d/1H93YVlwBH9yMpNRQHVALG6ZB3JmUjVF4/view?usp=sharing" width="70%" height="10%"></iframe>
+	  </div>
+	<p><span>「人はなぜしゃべり、なにを伝えようとする？」</span><br><br>
+       会話劇をつくるうえでこれ以上に重要かつ壮大なクエスチョンはありません。<br>
+       謎を解く手がかりを探すために、電車の中の老人の会話やレストランで時間をつぶす女子高生の甲高い笑い声に聞き耳をたてて過ごします。<br><br>
+       どんな会話にも、かならず“面白さ”を感じる瞬間があって、<br>
+      「これをそのまま舞台上にのせることができたらいいのだけれど…」<br>
+       と、まいど悔しさで首をななめにしてしまう。<br><br>
+       ホンモノの会話も舞台上にのった瞬間に、ニセモノになってしまう。<br>
+       会話劇（ニセモノ）はどこまでいっても、ホンモノには敵わない。<br>
+       このご時世にわざわざ劇場まで足を運んでいただいて、少なくとも 1 時間ちかく身柄を拘束して、観劇してもらうのです。だからこそ、私は日常感じることのできない観劇体験を提供したいと思います。ぺペペの会で、ライブ性（いま目の前にあること）を追求するのもそのためです。<br><br>
+       ぺペペの会の会話劇は、長いセリフの応酬。彼らは決して“よくしゃべる”わけではありません。<br>
+       “あまりしゃべらない”からこそ、ひとりで果てしなくしゃべり通そうとうするのかもしれません。<br><br>
+       人はなぜしゃべり、なにを伝えようとする？<br>
+       一つひとつの理由を明瞭にしていったとき。<br>
+       わたしたちは、この問いに対応する応えを用意することができるはずです。<br><br>
+       作・演出 宮澤大和
+	</p>
+    <h2>チャリティーチケット</h2>
+	<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">千葉県出身の劇団として、台風15号の被災地に何かできることはないかと考え、「9.807」で各回数枚、チャリティチケットを販売することにしました。<br>売上金の一部（500円）を、台風災害の被災地に寄付します。<br><br>多くの人が被災地に思いを巡らす一助になれば幸いです。<br>ご協力、宜しくお願い致します。</p>&mdash; ぺぺぺの会 (@pepepe_no_kai) <a href="https://twitter.com/pepepe_no_kai/status/1177145469950021632?ref_src=twsrc%5Etfw">September 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	<p>『9.807』では、台風15号の被災地（千葉県）に向けて、チャリティーチケットを販売し、物販にて募金活動を行ないました。<br>
+    合計17人の方から、合計で10000円のご寄付をいただき、日本赤十字社を通じて被災地に寄付しました。<br>
+    募金活動にご協力いただいたみなさま、ありがとうございました。
+	</p>
+<!--クラファン-->
+	<div class="cloud">
+	<h2>クラウドファンディング</h2>
+	<p>「9.807」では、クラウドファンディングを実施し、お客様に上演をサポートしていただきました。ありがとうございました。</p>
+	<iframe frameborder="0" height="300" scrolling="no" src="https://camp-fire.jp/projects/189712/widget" width="300"></iframe>
+	</div>
+<!--解説ツイート-->
+	<h2>解説ツイート</h2>
+	<p>上演中、Twitterにて解説を配信しました。</p>
+	<a class="twitter-timeline" data-width="500" data-height="300" data-theme="light" href="https://twitter.com/UtFzxUKkSVGpxdf?ref_src=twsrc%5Etfw">Tweets by UtFzxUKkSVGpxdf</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<!--演出ノート-->
+　　<h2>演出note</h2>
+	<div class="note">
+	<iframe class="note-embed" src="https://note.com/embed/notes/nb334851ebe21" style="border: 0; display: block; max-width: 99%; width: 300px; height: 450px; position: static; scrolling: no; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
+	
+	<iframe class="note-embed" src="https://note.com/embed/notes/n5d9672ece66a" style="border: 0; display: block; max-width: 99%; width: 300px; height: 450px; position: static; scrolling: no; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
+	
+	<iframe class="note-embed" src="https://note.com/embed/notes/n495c779b193b" style="border: 0; display: block; max-width: 99%; width: 300px; height: 450px; position: static; scrolling: no; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
+	
+	<iframe class="note-embed" src="https://note.com/embed/notes/ncdbd388a0884" style="border: 0; display: block; max-width: 99%; width: 300px; height: 450px; position: static; scrolling: no; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
+	
+	<iframe class="note-embed" src="https://note.com/embed/notes/nefbe46649369" style="border: 0; display: block; max-width: 99%; width: 300px; height: 450px; position: static; scrolling: no; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
+	
+	<iframe class="note-embed" src="https://note.com/embed/notes/n49990cfa0816" style="border: 0; display: block; max-width: 99%; width: 300px; height: 450px; position: static; scrolling: no; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
+	</div>
+	
+	<h2>演出助手ノート</h2>
+	<iframe src="https://drive.google.com/file/d/12FInvH8Srhb4FpstKkrOiB1IFdRNU3e7/view" width="300" height="100"></iframe>
+
+ 
+
+<!--劇評・感想-->	
+	<h2>いただいた劇評・ご感想など</h2>
+	<p class="btn2"><a href="https://www.nanka-ku-kai.com/entry/2019/10/05/080001">＜観劇レポート＞ぺぺぺの会「9.807」byなんかくうかい</a></p>
+	
+	<p class="btn2"><a href="https://simokitazawa.hatenablog.com/entry/2019/09/23/164438">ぺぺぺの会「みたかの「ぺ」公演『9.807』」＠三鷹SCOOL by中西理の下北沢通信</a></p>
+	
+	<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ぺぺぺの会『9.807』を観た。楽しかった。スーパーダイナミック討論会とかアカペラ現代音楽とか、無礼を恐れず言うと能っぽいけれど現代的っぽいといった印象。っぽい、というのがそもそも無礼だけれど。演奏としての楽しみを僕はした。また、例えば犬や宇宙人といったような、キャラクタナイズされた</p>&mdash; 平井ひろ人(ラララン星人) (@hirai_running) <a href="https://twitter.com/hirai_running/status/1180477179739561984?ref_src=twsrc%5Etfw">October 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	
+	<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ぺぺぺの会「9.807」を観劇。やたら、かわいい。孫のような後輩ってこともあるだろうけど、それだけではないと思う。おしつけがましくない。ぼーっと見ながら、考え事が進んだ。きっと、悲壮感に引っ張られず、前向きな人間たちを見ることができたからなんだろうな。</p>&mdash; 関美能留 (@minoruseki) <a href="https://twitter.com/minoruseki/status/1181081418606112773?ref_src=twsrc%5Etfw">October 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	
+	<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">SCOOLで、ぺぺぺの会「9.807」。潔い。俳優の待機状態や入退場時の異様なほどのこだわり、容易に咀嚼出来ない、しかし耳に残る言葉の数々は、前回観た「夢の旧作」からも引き継がれた世界観であり、独創的で強固な方針に貫かれている。もし戯曲賞に応募するなら迷う余地なくAAF戯曲賞って感じの作風。 <a href="https://t.co/X27amTUkM4">pic.twitter.com/X27amTUkM4</a></p>&mdash; 綾門優季 (@ayatoyuuki) <a href="https://twitter.com/ayatoyuuki/status/1181131170106339328?ref_src=twsrc%5Etfw">October 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+	<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ぺペペの会『9.807』を観た。初ぺぺぺだったこともあり、感想がいつまでもまとめられなかった。俳優は本当に真摯にそこに存在しようとしていて、若い肉体から等身大の生命力を放つ。個々の懺悔、苦悩の告白を感じた。観客としての私は、個を超えた人間関係や物語を妄想・想像することが出来ず葛藤し→</p>&mdash; 吉田小夏 ConatsuYoshida (@coconuts_blue) <a href="https://twitter.com/coconuts_blue/status/1185492906309632001?ref_src=twsrc%5Etfw">October 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	
+	<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">冒頭の『誰も傷つけないけどハリを失った人間と、誰かを傷つけてしまうかもしれないが懸命に生きる人間』って感じの言葉が刺さった。前者は安定だけど面白みは無い。後者はリスキーだけど、ある意味では人に影響を与えられる人なのかもしれない<br><br>後者に憧れつつも、わたしは結局前者<a href="https://twitter.com/hashtag/%E3%81%BA%E3%81%BA%E3%81%BA%E3%81%AE%E4%BC%9A?src=hash&amp;ref_src=twsrc%5Etfw">#ぺぺぺの会</a></p>&mdash; たかなし (@nashitaka08) <a href="https://twitter.com/nashitaka08/status/1180846455726034944?ref_src=twsrc%5Etfw">October 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	
+	<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/%E3%81%BA%E3%81%BA%E3%81%BA%E3%81%AE%E4%BC%9A?src=hash&amp;ref_src=twsrc%5Etfw">#ぺぺぺの会</a> の『9.807』を観劇しました。前回の <a href="https://twitter.com/hashtag/%E5%A4%A2%E3%81%AE%E6%97%A7%E4%BD%9C?src=hash&amp;ref_src=twsrc%5Etfw">#夢の旧作</a> を見てど頭打ち抜かれたような衝撃を受けたので、今回はどんな感情を抱くことになるのか、楽しみであり、少し恐怖でした笑<br>ぺぺぺさんのアートには毎度毎度、言葉の持つ力や強さを実感させられるなぁ…という気持ち。↓↓</p>&mdash; SHOMA (@dradra_shm) <a href="https://twitter.com/dradra_shm/status/1180350909127127040?ref_src=twsrc%5Etfw">October 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	
+	<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ぺぺぺの会 『9.807』<br>観劇。受信、楽しんだ。純潔・清潔・愛といった言葉を持つ花々は死を待つばかり、善悪の知識の木の果実が浮き沈みしている。私には、全てが孤独な祀りにみえた。ぺぺぺの祀り。放出されるエネルギーが互いを救い合っているように感じたからか。お呪(まじな)いのことばたちには→</p>&mdash; 大西玲子 (@reiko_onishi) <a href="https://twitter.com/reiko_onishi/status/1180860443075604481?ref_src=twsrc%5Etfw">October 6, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+	
+	<p>音楽と同様に、演劇も瞬間芸の生ものだ。役者の熱量を初めて見る観衆がここまで共有できるってすごいことではないか。<br>
+       Twitterにあがっている解説を見た。１つ１つの言葉がキーワードとして頭に残っていた。こんなにも言葉って記憶できるものなのか！？驚いた。<br>
+       — 坂上 (@gashigashi_381) October 6, 2019</p>
+	
+	
+<!--公演情報-->
+	<h2>公演情報</h2>
+	<p>【日時】<br>2019/10/04 (金) ～ 2019/10/13 (日)<br>【場所】<br>SCOOL（三鷹）<br>【スタッフ】<br>舞台美術:宮 澤大和/コトデラシオン（十六夜基地）<br>演出助手:熊野美幸<br>制作:鈴木南音/後藤佑里乃<br>運営:木村吏那/新海有己<br>
+    プリセット確認担当:竹内蓮<br>宣伝美術:羽田朱音<br>【協力】<br>
+    劇団木霊、劇団個人主義、十六夜基地、劇団ひととせ、劇団スポーツ、早稲田大学演劇倶楽部、クラウドファンディングにご協力いただいたみなさま
+    </p>
+	
+  </div>	
+	
+</div>
+
+	
+
+<div class="next">
+  <p class="btn"><a href="#">前のステージ</a></p>
+  <p class="btn"><a href="#">次のステージ</a></p>
+</div>
+	
+<!--wrapおわり-->
+
+<!--footerはじまり-->
+<footer>
+	<p>COPYRIGHT(C)pepepenokai
+	</p>
+</footer>
+<!--footerおわり-->
+</body>
+</html>
+
