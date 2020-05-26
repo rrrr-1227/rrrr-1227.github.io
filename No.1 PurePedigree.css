@@ -134,6 +134,11 @@ h2{
 .news p{
 	margin: 0 5%;
 }
+.news span{
+	disply: none;
+	color: #FFFFFF;
+}
+
 
 .detail{
 	margin: 2% 5%;
@@ -148,6 +153,7 @@ h4{
 	padding: 0;
 	margin: 5% 0 0 0;
 }
+
 .detail p{
 	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
 	padding: 0;
@@ -159,6 +165,11 @@ h4{
 	font-size: 12px;
 	font-family: YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "serif";
 	background-color:#FFFFFF;
+}
+
+.otoiawase{
+	disply: none;
+	color: #FFFFFF;
 }
 .corich img{
 	width: 70%;
