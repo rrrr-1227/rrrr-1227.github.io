@@ -92,7 +92,7 @@ header img {
 	display: none;
 }
 #cp_navimenuid:checked ~ .menu {
-	width: 70%;
+	width: 80%;
 	height: 60px;
 	border: 3px solid #FFFFFF;
 	border-radius: 5px;
