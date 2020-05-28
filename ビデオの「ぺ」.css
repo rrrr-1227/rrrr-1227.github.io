@@ -112,42 +112,285 @@ h1{
 	text-align: center;
 }
 h2{
-	font-size: 20px;
+	font-size: 25px;
 	border-bottom: solid 2px #FDFAFA;
-	margin: 2% 5%;
+	margin: 5%;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif"
 }
 
-.youtube1{
-	margin: 0 5% 2% 5%;
+.youtube1 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
 }
-.youtube2{
-	margin: 0 5% 2% 5%;
+.youtube1 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
-.youtube3{
-	margin: 0 5% 2% 5%;
+
+.youtube2 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
 }
-.youtube4{
-	margin: 0 5% 2% 5%;
+.youtube2 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
-.youtube5{
-	margin: 0 5% 2% 5%;
+
+.youtube3 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
 }
-.youtube6{
-	margin: 0 5% 2% 5%;
+.youtube3 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
-.youtube7{
-	margin: 0 5% 2% 5%;
+
+.youtube4 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
 }
-.youtube8{
-	margin: 0 5% 2% 5%;
+.youtube4 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
-.youtube9{
-	margin: 0 5% 2% 5%;
+
+.youtube5 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
 }
-.youtube10{
-	margin: 0 5% 2% 5%;
+.youtube5 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
 }
+
+.youtube6 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
+}
+.youtube6 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.youtube7 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
+}
+.youtube7 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.youtube8 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
+}
+.youtube8 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.youtube9 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
+}
+.youtube9 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.youtube10 {
+  position: relative;
+  width: 90%;
+  padding-top: 50%;
+  margin: 2% 5%;
+}
+.youtube10 iframe {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 100% !important;
+  height: 100% !important;
+}
+footer{
+	margin-top: 1500px;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+
+/*携帯画面*/
+
+@media screen and (max-width:600px){
+	body{
+	margin: 0 auto;
+	padding: 0;
+	background-color: #B5B6B6;
+}
+
+header{
+	height: 300px;
+	width: 100%;
+	background-image: url("P1200430 - コピー.JPG");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	max-width: 100%;
+}
+
+header img {
+	width: 45px;
+    margin: 5px 5px 0 5px;
+	padding: 0px;
+	vertical-align: bottom;
+	position: absolute;
+}
+
+*,*:before, *:after {
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.menu {
+	display: block;
+	overflow: hidden;
+	width: 50px;
+	height: 50px;
+	margin: 5px 10px;
+	cursor: pointer;
+	-webkit-transition: all 0.5s ease-in-out;
+	        transition: all 0.5s ease-in-out;
+	border: 2px solid transparent;
+	border-radius: 50%;
+	background-color: transparent;
+	float: right;
+}
+.menu div.menubar {
+	width: 30px;
+	margin: 17px auto;
+}
+.menu div.menubar .bar {
+	display: block;
+	width: 100%;
+	height: 5px;
+	margin-top: 3px;
+	border-radius: 2px;
+	background-color: #FFFFFF;
+}
+.menu ul {
+	display: none;
+	width: 100%;
+	font-size: 3vw;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	-webkit-transition: all 0.5s ease;
+	        transition: all 0.5s ease;
+	opacity: 0;
+}
+.menu ul li {
+	display: inline-block;
+	width: 100%;
+	float: left;
+}
+.menu ul li a {
+	display: inline-block;
+	padding: 0.5em 0.3em;
+	-webkit-transition: all 0.3s ease-in;
+	        transition: all 0.3s ease-in;
+	text-decoration: none;
+	color: #FFFFFF;
+	border-bottom: 3px solid transparent;
+	height: 40px;
+	line-height: 2em;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+}
+.menu ul li a:hover {
+	display: block;
+	color: #FFFFFF;
+	background-color: #B5B6B6;
+}
+.menu ul li a:target {
+	border-bottom-color: #B5B6B6;
+}
+/* クリックした時の動き */
+#cp_navimenuid {
+	display: none;
+}
+#cp_navimenuid:checked ~ .menu {
+	width: 30%;
+	height: auto;
+	border: 3px solid #FFFFFF;
+	border-radius: 5px;
+	background-color: transparent;
+}
+#cp_navimenuid:checked ~ .menu > ul {
+	display: block;
+	opacity: 1;
+}
+#cp_navimenuid:checked ~ .menu > .menubar {
+	display: none;
+}
+
+
+h1{
+	font-size: 6vw;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+	margin-top: 5%;
+	text-align: center;
+} 
+
+h2{
+	font-size: 5vw;
+	font-weight: 200;
+	border-bottom: 2px solid #FFFCFC;
+	margin: 5%;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+}
+	
 
 footer{
 	margin-top: 1500px;
