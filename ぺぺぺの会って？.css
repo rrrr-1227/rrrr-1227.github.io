@@ -326,6 +326,8 @@ header img {
 }
 
 
+
+
 h1{
 	font-size: 6vw;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
@@ -374,14 +376,16 @@ h4{
 }
 
 .pepepe3no1 img{
+	position: absolute;
 	haight: auto;
 	width: 90%;
-	margin: 0 5%;
 }
 .pepepe3no1 p{
-	margin: 250px 5% 0 5%;
+	margin: 260px 5% 0 5%;
 	width: 90%;
 	font-size:4vw;
+	position: relative;
+	
 }
 	
 	
@@ -394,14 +398,16 @@ h5{
 	font-size: 5vw;	
 	border-bottom: 2px dotted #FFFFFF;
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 35px;
 }
 
 .pepepe3no2 img{
 	haight: 90%;
 	width: 90%;
+	position: absolute;
 }
 .pepepe3no2 p{
+	position: relative;
 	margin: 270px 5% 0 5%;
 	width: 90%;
 	font-size:4vw;
@@ -420,14 +426,15 @@ h6 {
 }
 
 .pepepe3no3 img{
+	position: absolute;
 	haight: 90%;
 	width: 90%;
-	margin:0 5%;
 }
 .pepepe3no3 p{
-	margin: 250px 5% 0 5%;
+	margin: 270px 5% 0 5%;
 	width: 90%;
 	font-size:4vw;
+	position: relative;
 }
 
 .twitter img{
