@@ -166,8 +166,8 @@ footer{
 }
 
 header{
-	height: 400px;
-	width: auto;
+	height: 600px;
+	width: 100%;
 	background-image: url("../pepepeweb.png");
 	background-repeat: no-repeat;
 	background-position: center;
