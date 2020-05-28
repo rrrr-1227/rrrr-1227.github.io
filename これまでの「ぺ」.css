@@ -92,7 +92,7 @@ header img {
 	display: none;
 }
 #cp_navimenuid:checked ~ .menu {
-	width: 70%;
+	width: 80%;
 	height: 60px;
 	border: 3px solid #FFFFFF;
 	border-radius: 5px;
@@ -346,3 +346,329 @@ footer{
 	background-color: #FFFFFF
 }
 
+/*携帯画面*/
+
+@media screen and (max-width:600px){
+	body{
+	margin: 0 auto;
+	padding: 0;
+	background-color: #B5B6B6
+}
+
+header{
+	height: 300px;
+	width: 100%;
+	background-image: url("ぺぺぺって？.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	max-width: 100%;
+}
+
+header img {
+	width: 40px;
+    margin: 5px 5px 0 5px;
+	padding: 0px;
+	vertical-align: bottom;
+	position: absolute;
+}
+
+*,*:before, *:after {
+	-webkit-box-sizing: border-box;
+	        box-sizing: border-box;
+}
+.menu {
+	display: block;
+	overflow: hidden;
+	width: 50px;
+	height: 50px;
+	margin: 5px 10px;
+	cursor: pointer;
+	-webkit-transition: all 0.5s ease-in-out;
+	        transition: all 0.5s ease-in-out;
+	border: 2px solid transparent;
+	border-radius: 50%;
+	background-color: transparent;
+	float: right;
+}
+.menu div.menubar {
+	width: 30px;
+	margin: 17px auto;
+}
+.menu div.menubar .bar {
+	display: block;
+	width: 100%;
+	height: 5px;
+	margin-top: 3px;
+	border-radius: 2px;
+	background-color: #FFFFFF;
+}
+.menu ul {
+	display: none;
+	width: 100%;
+	font-size: 3vw;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	-webkit-transition: all 0.5s ease;
+	        transition: all 0.5s ease;
+	opacity: 0;
+}
+.menu ul li {
+	display: inline-block;
+	width: 100%;
+	float: left;
+}
+.menu ul li a {
+	display: inline-block;
+	padding: 0.5em 0.3em;
+	-webkit-transition: all 0.3s ease-in;
+	        transition: all 0.3s ease-in;
+	text-decoration: none;
+	color: #FFFFFF;
+	border-bottom: 3px solid transparent;
+	height: 40px;
+	line-height: 2em;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+}
+.menu ul li a:hover {
+	display: block;
+	color: #FFFFFF;
+	background-color: #B5B6B6;
+}
+.menu ul li a:target {
+	border-bottom-color: #B5B6B6;
+}
+/* クリックした時の動き */
+#cp_navimenuid {
+	display: none;
+}
+#cp_navimenuid:checked ~ .menu {
+	width: 30%;
+	height: auto;
+	border: 3px solid #FFFFFF;
+	border-radius: 5px;
+	background-color: transparent;
+}
+#cp_navimenuid:checked ~ .menu > ul {
+	display: block;
+	opacity: 1;
+}
+#cp_navimenuid:checked ~ .menu > .menubar {
+	display: none;
+}
+
+
+h1{
+	font-size: 6vw;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+	margin-top: 5%;
+	text-align: center;
+} 
+	
+	
+table{
+	margin: 3% 5% 0 5%;
+	width: 90%;
+	border-spacing: 0;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+	font-size: 3.5vw;
+}
+.career th{
+	width: 20%;
+	background-color: #FFFFFF;
+	padding: 5px;
+	font-weight: lighter;
+	border-bottom: 1px  solid #737373;
+}
+.career td{
+	width: 70%;
+	padding: 0 10px 0 10px;
+	background-color: #FFFFFF;
+	border-bottom: 1px  solid #737373;
+}
+.career a{
+	color: #B5B6B6;
+}
+
+.flyer img{
+	width: 100%;
+	height: 100%;
+}
+.flyer .maki{
+	margin-bottom: 5%;
+}
+
+.flyer{
+	width: auto;
+	margin: 5%;
+	overflow: hidden;
+}
+
+.flyer1 {
+	width: 90%;
+	height:	90%;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+}
+
+.flyer1 .active{
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.5s; 
+}
+
+.flyer1 .active:hover{
+	opacity: 1;
+}
+
+
+
+h2{
+	font-size: 4vw;
+	text-align: center;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+.flyer2 {
+	width: 90%;
+	height:	90%;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+}
+
+
+.flyer2 .active{
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.5s; 
+}
+
+.flyer2 .active:hover{
+	opacity: 1;
+}
+	
+.flyer3 {
+	width: 90%;
+	height:	90%;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+}
+
+.flyer3 .active{
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.5s; 
+}
+
+.flyer3 .active:hover{
+	opacity: 1;
+}
+.flyer4 {
+	width: 90%;
+	height:	90%;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+}
+.flyer4 .active{
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.5s; 
+}
+.flyer4 .active:hover{
+	opacity: 1;
+}
+.flyer5 {
+	width: 90%;
+	height:	90%;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+}
+.flyer5 .active{
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.5s; 
+}
+.flyer5 .active:hover{
+	opacity: 1;
+}
+
+.flyer6 {
+	
+	width: 90%;
+	height:	90%;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+}
+.flyer6 .active{
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.5s; 
+}
+.flyer6 .active:hover{
+	opacity: 1;
+}
+
+.flyer7 {
+	width: 90%;
+	height:	90%;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+}
+.flyer7 .active{
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.5s; 
+}
+.flyer7 .active:hover{
+	opacity: 1;
+}
+
+.flyer8 {
+	width: 90%;
+	height:	90%;
+	overflow: hidden;
+	position: relative;
+	padding: 0;
+}
+
+
+.flyer8 .active{
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+  transition: 0.5s; 
+}
+
+.flyer8 .active:hover{
+	opacity: 1;
+}
+
+footer{
+	margin-top: 100px;
+	text-align: center;
+	background-color: #FFFFFF
+}
