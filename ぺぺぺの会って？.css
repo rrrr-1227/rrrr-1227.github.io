@@ -219,7 +219,7 @@ footer{
 	body{
 	margin: 0 auto;
 	padding: 0;
-	background-color: #B5B6B6
+	background-color: #B5B6B6;
 }
 
 header{
@@ -233,7 +233,7 @@ header{
 }
 
 header img {
-	width: 40px;
+	width: 45px;
     margin: 5px 5px 0 5px;
 	padding: 0px;
 	vertical-align: bottom;
@@ -379,7 +379,6 @@ h4{
 	margin: 0 5%;
 }
 .pepepe3no1 p{
-	position: relative;
 	margin: 250px 5% 0 5%;
 	width: 90%;
 	font-size:4vw;
@@ -403,7 +402,6 @@ h5{
 	width: 90%;
 }
 .pepepe3no2 p{
-	position: relative;
 	margin: 270px 5% 0 5%;
 	width: 90%;
 	font-size:4vw;
@@ -427,7 +425,6 @@ h6 {
 	margin:0 5%;
 }
 .pepepe3no3 p{
-	position: relative;
 	margin: 250px 5% 0 5%;
 	width: 90%;
 	font-size:4vw;
