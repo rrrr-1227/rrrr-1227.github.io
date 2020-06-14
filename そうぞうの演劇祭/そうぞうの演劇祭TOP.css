@@ -15,7 +15,7 @@
 }
 
 .statement p{
-	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+	font-family: YuMincho, 'Yu Mincho', 'Hiragino Mincho ProN', 'serif';
 	font-size: 1.5vw;
 	margin: 10% 5%;
 }
@@ -37,7 +37,7 @@ h1{
 	text-align: center;
 	border-top: 1px solid #000000;
 	border-bottom: 1px solid #000000;
-	font-family: YuMincho, 'Yu Mincho', 'Hiragino Mincho ProN', 'serif';
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
 }
 
 .gallery img{
