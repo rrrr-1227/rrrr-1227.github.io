@@ -36,12 +36,10 @@ h1{
 	font-size: 2.5vw;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
 	font-weight: normal;
+	width: 100%;
+	background-color: #FFFFFF;
 }
 
-
-.gallery {
-	background-color: #BADAF9;
-}
 
 .gallery p{
 	font-size: 1.5vw;
