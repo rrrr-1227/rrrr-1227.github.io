@@ -4,12 +4,28 @@
 body{
 	background-color: #D8D7D7;
 }
+header{
+	height: 100px;
+}
 .logo img{
 	width: 10%;
-	
+	position: absolute;
+	overflow: hidden;
+	margin: 0 30% 0 40%;
 }
 .logo a:hover{
 	opacity: 0.5;
+}
+
+.souzoulogo img{
+	width: 8.5%;
+	height: 8.5%;
+	position: relative;
+	overflow: hidden;
+	margin: 1% 20% 0 55%;
+}
+.souzoulogo a:hover{
+	opaacity:0.6;
 }
 
 .btn2 {
@@ -17,13 +33,10 @@ body{
 	float: right;
 	position: relative;
 	overflow: hidden;
-	margin:  0%3%;
-	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
-	border-bottom: 1px solid #000000;
-	text-align: center;
-	font-color:　#000000;
-	background: #BADAF9;
+	margin:  0%3%header{
+	height: 100px;
 }
+
 .btn2 a{
 	text-decoration: none;
 	font-size: 20px;
@@ -35,10 +48,10 @@ body{
 
 h1{
 	text-align: center;
-	color: #7F7F7F;
+	color: #000000;
 	font-size: 3vw;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
-	border-bottom: 2px solid #7F7F7F;
+	border-bottom: 2px solid #000000;
 	margin-top: 150px;
 }
 .main img{
