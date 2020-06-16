@@ -28,23 +28,6 @@ header{
 	opaacity:0.6;
 }
 
-.btn2 {
-	width: 25%;
-	float: right;
-	position: relative;
-	overflow: hidden;
-	margin:  0%3%header{
-	height: 100px;
-}
-
-.btn2 a{
-	text-decoration: none;
-	font-size: 20px;
-}
-
-.btn2 a:hover{
-	opacity: 0.6;
-}
 
 h1{
 	text-align: center;
