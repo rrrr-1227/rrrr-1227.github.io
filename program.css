@@ -1,0 +1,99 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: #D8D7D7;
+}
+header{
+	height: 100px;
+}
+.logo img{
+	width: 10%;
+	position: absolute;
+	overflow: hidden;
+	margin: 0 30% 0 40%;
+}
+.logo a:hover{
+	opacity: 0.5;
+}
+
+.souzoulogo img{
+	width: 8.5%;
+	height: 8.5%;
+	position: relative;
+	overflow: hidden;
+	margin: 1% 20% 0 55%;
+}
+.souzoulogo a:hover{
+	opaacity:0.6;
+}
+
+
+h1{
+	text-align: center;
+	color: #000000;
+	font-size: 3vw;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+	border-bottom: 2px solid #000000;
+	margin-top: 150px;
+}
+.main img{
+	width: 80%;
+	height: 80%;
+	margin: 5% 10%;
+}
+.next{
+	margin: 0 30%;
+	
+	}
+
+.btn a{
+	background-color: #FFFFFF;
+	color: #B5B6B6;
+	text-decoration: none;
+	font-size: 20px;
+	padding: 2%;
+	margin: 5%;
+	float: left;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+}
+.btn a:hover{
+	opacity: 0.6;
+}
+
+/*携帯画面*/
+
+@media screen and (max-width:700px){
+.logo img{
+	width: 15%;
+}
+.logo a:hover{
+	opacity: 0.5;
+}
+
+h1{
+	text-align: center;
+	color: #7F7F7F;
+	font-size: 3.5vw;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+	border-bottom: 2px solid #7F7F7F;
+}
+.main img{
+	width: 95%;
+	height: 95%;
+	margin: 5% 2.5%
+}
+
+.btn a{
+	background-color: #FFFFFF;
+	color:　#7F7F7F;
+	text-decoration: none;
+	font-size: 2vw;
+	padding: 1%;
+	margin: 1%;
+	float: left;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+}
+.btn a:hover{
+	opacity: 0.6;
+}
