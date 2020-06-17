@@ -4,7 +4,7 @@
 header{
 	height: 500px;
 	width: auto;
-	background-img: url("そうぞうの演劇祭.png");
+	background-image: url("そうぞうの演劇祭.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
