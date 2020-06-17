@@ -11,7 +11,7 @@ header{
 	width: 10%;
 	position: absolute;
 	overflow: hidden;
-	margin: 0 30% 0 40%;
+	margin: 0 30% 0 35%;
 }
 .logo a:hover{
 	opacity: 0.5;
@@ -22,7 +22,7 @@ header{
 	height: 8.5%;
 	position: relative;
 	overflow: hidden;
-	margin: 1% 20% 0 55%;
+	margin: 1% 25% 0 55%;
 }
 .souzoulogo a:hover{
 	opaacity:0.6;
@@ -72,7 +72,6 @@ h1{
 }
 
 h1{
-	text-align: center;
 	color: #7F7F7F;
 	font-size: 3.5vw;
 	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
