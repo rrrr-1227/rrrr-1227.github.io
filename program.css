@@ -69,7 +69,7 @@ header{
 	width: 20%;
 	position: absolute;
 	overflow: hidden;
-	margin: 0 30% 0 30%;
+	margin: 0 30% 0 27%;
 }
 .logo a:hover{
 	opacity: 0.5;
@@ -79,17 +79,17 @@ header{
 	width: 17%;
 	position: relative;
 	overflow: hidden;
-	margin: 1% 25% 0 53%;
+	margin: 1% 25% 0 56%;
 }
 .souzoulogo a:hover{
 	opaacity:0.5;
 }
 
 h1{
-	color: #7F7F7F;
+	color: #000000;
 	font-size: 3.5vw;
 	font-family: 'Yu Mincho';
-	border-bottom: 2px solid #7F7F7F;
+	border-bottom: 2px solid #000000;
 }
 .main img{
 	width: 95%;
@@ -97,7 +97,7 @@ h1{
 	margin: 5% 2.5%
 }
 .next{
-	margin: 0 20%;
+	margin: 0 18%;
 	
 	}
 .btn a{
