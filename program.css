@@ -40,7 +40,7 @@ h1{
 	margin: 5% 10%;
 }
 .next{
-	margin: 0 35%;
+	margin: 0 37%;
 	
 	}
 
@@ -69,14 +69,14 @@ header{
 	width: 20%;
 	position: absolute;
 	overflow: hidden;
-	margin: 0 30% 0 37%;
+	margin: 0 30% 0 30%;
 }
 .logo a:hover{
 	opacity: 0.5;
 }
 
 .souzoulogo img{
-	width: 15%;
+	width: 17%;
 	position: relative;
 	overflow: hidden;
 	margin: 1% 25% 0 53%;
@@ -96,7 +96,10 @@ h1{
 	height: 95%;
 	margin: 5% 2.5%
 }
-
+.next{
+	margin: 0 20%;
+	
+	}
 .btn a{
 	background-color: #FFFFFF;
 	color:　#000000;
