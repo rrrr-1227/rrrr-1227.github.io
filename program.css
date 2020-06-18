@@ -24,8 +24,8 @@ header{
 	overflow: hidden;
 	margin: 1% 25% 0 53%;
 }
-.souzoulogo img:hover{
-	opaacity:0.6;
+.souzoulogo a:hover{
+	opaacity:0.5;
 }
 
 
