@@ -31,7 +31,7 @@ header{
 h1{
 	color: #000000;
 	font-size: 3vw;
-	font-family: 'Yu Gothic';
+	font-family: 'Yu Mincho';
 	border-bottom: 2px solid #000000;
 	margin-top: 150px;
 	margin-left: 10px;
@@ -52,7 +52,7 @@ h1{
 	padding: 2%;
 	margin: 5%;
 	float: left;
-	font-family: 'Yu Gothic';
+	font-family: 'Yu Mincho';
 }
 .btn a:hover{
 	opacity: 0.6;
@@ -88,7 +88,7 @@ header{
 h1{
 	color: #7F7F7F;
 	font-size: 3.5vw;
-	font-family: 'Yu Gothic';
+	font-family: 'Yu Mincho';
 	border-bottom: 2px solid #7F7F7F;
 }
 .main img{
@@ -108,7 +108,7 @@ h1{
 	padding: 3%;
 	margin: 5% 5% 10% 5%;
 	float: left;
-	font-family: 'Yu Gothic';
+	font-family: 'Yu Mincho';
 }
 .btn a:hover{
 	opacity: 0.6;
